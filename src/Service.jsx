@@ -1,5 +1,4 @@
 import React from "react";
-import web from "../src/images/img9.jpg"
 import Card from "./Card";
 import Sdata from "./Sdata";
 

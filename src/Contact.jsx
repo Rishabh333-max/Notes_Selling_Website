@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import { NavLink } from "react-router-dom";
-import web from "../src/images/img4.jpg"
+
 const Contact=()=>{
     const [data,setData]=useState({
         fullname:"",
